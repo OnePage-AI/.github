@@ -1,11 +1,10 @@
 <div align="center">
   <h2>원페이지(OnePage)</h2>
-  <img width="558" height="314" alt="image" src="https://github.com/user-attachments/assets/56ed9651-f91d-476c-85d9-28c4d6e5cc4d" /> <br>
   사용자가 업로드한 강의 자료(PDF, PPTX, DOCX)를 AI가 분석하여 <br>
   학습에 최적화된 정리 결과물, 요약, 퀴즈를 생성해주는 학습 솔루션입니다.
   <br><br>
   "강의 내용을 덜 정리하고, 더 이해하며, 시험 대비까지 연결"하는 것을 목표로, <br>
-  효율적인 학습 경험을 제공합니다. 
+  효율적인 학습 경험을 제공해드립니다.
 </div>
 
 <br>
