@@ -6,11 +6,14 @@
     사용자가 업로드한 강의 자료(PDF, PPTX, DOCX)를 AI가 분석하여 <br>
     학습에 최적화된 정리 결과물, 요약, 퀴즈를 생성해주는 학습 솔루션입니다.
   </p>
-  <br>
   <p>
     <strong>"강의 내용을 덜 정리하고, 더 이해하며, 시험 대비까지 연결"</strong>하는 것을 목표로, <br>
     효율적인 학습 경험을 제공해드립니다.
   </p>
+  <p>
+    🌐 <strong>공식 사이트: <a href="https://1-page.site/" target="_blank">1-page.site</a></strong>
+  </p>
+  <br>
 </div>
 
 <br><br>
@@ -104,6 +107,8 @@
 <h2 id="문의-및-소식">📧 문의 및 소식</h2>
 <p>서비스 이용 중 궁금한 점이나 제안사항이 있으시면 언제든 연락주세요!</p>
 <ul>
+  <li><strong>공식 사이트:</strong> <a href="https://1-page.site/" target="_blank">1-page.site</a></li>
+  <br>
   <li><strong>문의 메일:</strong> <a href="mailto:shm66371945@gmail.com">shm66371945@gmail.com</a></li>
   <br>
   <li><strong>인스타그램:</strong> <a href="https://www.instagram.com/onepage_summary/" target="_blank">@onepage_summary</a></li>
