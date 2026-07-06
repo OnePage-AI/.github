@@ -1,6 +1,6 @@
-# OnePage Public Documentation
+# Mori-Q Public Documentation
 
-이 저장소는 원페이지(OnePage)의 공개 소개와 Wiki 기술 문서를 관리합니다.
+이 저장소는 모릭(Mori-Q)의 공개 소개와 Wiki 기술 문서를 관리합니다.
 
 - 조직 프로필: [`profile/README.md`](profile/README.md)
 - Wiki 원본: [`wiki/`](wiki/)
