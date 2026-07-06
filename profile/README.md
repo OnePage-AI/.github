@@ -1,7 +1,7 @@
 <div align="center">
-  <img width="100%" alt="OnePage" src="https://github.com/user-attachments/assets/93d32a54-e44c-40ef-b91f-c7be1b15e2cf" />
+  <img width="100%" alt="모릭(Mori-Q)" src="https://github.com/user-attachments/assets/93d32a54-e44c-40ef-b91f-c7be1b15e2cf" />
 
-  <h1>원페이지 (OnePage)</h1>
+  <h1>모릭(Mori-Q)</h1>
 
   <p>
     대학생의 강의 자료를 복습과 시험 대비에 맞는 학습 자료로 정리하는 AI 서비스입니다.
@@ -10,13 +10,13 @@
   <p>
     <a href="https://1-page.site/"><strong>서비스 이용하기</strong></a>
     &nbsp;|&nbsp;
-    <a href="https://github.com/OnePage-AI/.github/wiki"><strong>프로젝트 Wiki</strong></a>
+    <a href="https://github.com/모릭(Mori-Q)-AI/.github/wiki"><strong>프로젝트 Wiki</strong></a>
   </p>
 </div>
 
 ## 서비스 소개
 
-강의 자료는 많고, 정리할 시간은 제한적입니다. 원페이지는 PDF, PPTX, DOCX 자료를 업로드하면 사용자가 선택한 학습 방식에 맞춰 내용을 정리하고, 이후 다시 확인할 수 있도록 라이브러리에서 관리합니다.
+강의 자료는 많고, 정리할 시간은 제한적입니다. 모릭(Mori-Q)는 PDF, PPTX, DOCX 자료를 업로드하면 사용자가 선택한 학습 방식에 맞춰 내용을 정리하고, 이후 다시 확인할 수 있도록 라이브러리에서 관리합니다.
 
 직접 개발하고 운영하면서 실제 학습 흐름에서 불편한 지점을 빠르게 확인하고 개선하는 것을 목표로 하고 있습니다.
 
@@ -40,4 +40,4 @@
 
 `Next.js` · `Spring Boot` · `FastAPI` · `PostgreSQL` · `Google Cloud Run` · `Google Cloud Storage` · `Google Gemini API`
 
-구성 요소의 역할과 기술적 선택은 [프로젝트 Wiki](https://github.com/OnePage-AI/.github/wiki)에서 확인할 수 있습니다.
+구성 요소의 역할과 기술적 선택은 [프로젝트 Wiki](https://github.com/모릭(Mori-Q)-AI/.github/wiki)에서 확인할 수 있습니다.
