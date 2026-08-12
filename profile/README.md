@@ -1,6 +1,4 @@
 <div align="center">
-  <img width="100%" alt="모릭(Mori-Q)" src="https://github.com/user-attachments/assets/93d32a54-e44c-40ef-b91f-c7be1b15e2cf" />
-
   <h1>모릭(Mori-Q)</h1>
 
   <p>
