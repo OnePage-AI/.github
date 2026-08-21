@@ -4,7 +4,7 @@
 
 - 조직 프로필: [`profile/README.md`](profile/README.md)
 - Wiki 원본: [`wiki/`](wiki/)
-- 서비스: [1-page.site](https://1-page.site/)
+- 서비스: [mori-q.com](https://mori-q.com/)
 
 ## 공개 범위
 
